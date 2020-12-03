@@ -16,3 +16,5 @@ def bmi_calc_imperial():
     bmi_result_imp = bmi_height / bmi_weight
     print("Your BMI is " + str(bmi_result_imp))
     input("Please press any key to exit program...")
+
+# Warning - BMI Imperial system not functional. needs new formula.
